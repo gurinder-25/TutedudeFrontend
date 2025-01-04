@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    text-align: center;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  form {
+    display: inline-block;
+    margin: 20px auto;
+    text-align: left;
+  }
+  
+  label {
+    display: block;
+    margin: 10px 0 5px;
+  }
+  
+  input {
+    padding: 8px;
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  .navigation a {
+    margin: 10px;
+    text-decoration: none;
+    color: #007BFF;
+  }
+  
+  .navigation a:hover {
+    text-decoration: underline;
+  }
